@@ -1,3 +1,0 @@
-humanize
-prettytable
-rich
